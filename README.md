@@ -1,0 +1,3 @@
+# inclass5_digital_pet_app
+
+A new Flutter project.
